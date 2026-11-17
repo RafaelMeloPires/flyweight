@@ -1,0 +1,1 @@
+![Diagrama Flyweight](flyweight.png)
